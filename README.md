@@ -22,5 +22,5 @@ curl "https://ipfs.infura.io:5001/api/v0/add?pin=true" \
 
 Note that you must pin the file to IPFS or else you can consider the file cached and non-persistent.
 
-AUTHORS:
-A very special thanks to my favs Janis Frederick and Shyam Pinnipati for all their attention and hard work!
+Documentation:
+https://docs.google.com/document/d/19tTG7a5RoFPzcIUywUhpZZcDG3Jr7BEOJjpsmScqZ08/edit?usp=sharing 
