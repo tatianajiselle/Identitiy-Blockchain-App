@@ -1,0 +1,22 @@
+{
+  "name": "identity-blockchain-app",
+  "version": "1.0.0",
+  "description": "A blockchain app for Fillow used for hackweek.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.zgtools.net/tatianae/identity-blockchain-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jwt-decode": "^2.2.0",
+    "ngrok": "^3.1.1",
+    "uport-credentials": "^1.2.3",
+    "uport-transports": "^0.2.6"
+  }
+}
